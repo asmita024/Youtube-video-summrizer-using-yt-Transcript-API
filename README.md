@@ -48,7 +48,7 @@ Robust Performance Metrics: High accuracy and readability of generated summaries
 
 🔗 Getting Started
 Clone the repository:
-git clone https://github.com/atul21mangla/Video-and-Text-Summarizer.git
+git clone (https://github.com/asmita024/Youtube-video-summrizer-using-yt-Transcript-API)
 
 Navigate to the project directory:
 cd video-text-summarizer
